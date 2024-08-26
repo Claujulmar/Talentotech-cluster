@@ -1,7 +1,5 @@
-pyodbc
+streamlit
 pandas
-yfinance
-numpy
-matplotlib
 seaborn
 scikit-learn
+altair
